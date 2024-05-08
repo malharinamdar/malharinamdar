@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello! , I'm Malhar
+- I like working on ML, along with its intersection with robotics.
+- Reach out if you’d like to chat about anything you think we’d both enjoy! 
 
 <!--
 **malharinamdar/malharinamdar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
