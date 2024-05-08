@@ -1,5 +1,5 @@
 ### Hello! , I'm Malhar
-- I am currently working on ML, along with its intersection with robotics.
+- I am currently working on ML, with an interest in its intersection with robotics.
 - Reach out if you’d like to chat about anything you think we’d both enjoy! 
 
 <!--
