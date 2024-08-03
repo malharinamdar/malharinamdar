@@ -1,5 +1,6 @@
 ### Hello! , I'm Malhar
-- I am currently working on ML, with an interest in its intersection with robotics.
+- I am currently working on ML, Deep Learning and its applications across domains.
+- Also interested in the intersection of Robotics and AI.
 - Reach out if you’d like to chat about anything you think we’d both enjoy! 
 
 <!--
