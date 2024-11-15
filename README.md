@@ -1,1 +1,1 @@
-learn and build.
+learn, build and infer.
